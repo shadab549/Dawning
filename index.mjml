@@ -1,0 +1,94 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image width="650px" src="https://i.wlycdn.com/email/client-header.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="900px" src="https://i.wlycdn.com/emails/email-assets-family-10.png"></mj-image>
+      </mj-column>
+    </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="20px" color="grey" align="center">We keep working to give you a more streamlined and convenient investing experience. In the last month we dug deep and rolled out some new features that makes this possible. Some of these are -</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-group>
+        <mj-column>
+          <mj-text font-size="20px" color="black"><strong> Add family members</strong></mj-text>
+          <mj-text font-size="20px" color="grey" align="left">You can easily search and find a wide range of funds based on your specific criteria.</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image width="400px" src="https://i.wlycdn.com/emails/email-assets-family-2.png" ></mj-image>
+        </mj-column>
+        </mj-group>
+        </mj-section>
+    <mj-section>
+      <mj-group>
+      <mj-column>
+        <mj-image width="400px" src="https://i.wlycdn.com/emails/email-assets-family-3.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="20px" color="black"><strong>Auto Fetch OTP</strong>
+        </mj-text>
+        <mj-text font-size="20px" color="grey" align="left">Your Wealthy App can now fetch the OTP from the SMS Streamlines the login process, providing secure and streamless access to your accounts.</mj-text>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+      <mj-column>
+        <mj-text font-size="20px" color="black"><strong>Add More Family Members</strong></mj-text>
+        <mj-text font-size="20px" color="grey" align="left">Now you can add up to 10 family members in your family account and run your digital family office.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="400px" src="https://i.wlycdn.com/emails/email-assets-family-1.png"></mj-image>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-text font-size="20px" color="black" align="center"><strong>What we are working on</strong></mj-text>
+      <mj-divider border-color="black"></mj-divider>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+      <mj-column>
+        <mj-text font-size="20px" color="black"><strong>SIP Dashboard</strong></mj-text>
+        <mj-text font-size="20px" color="grey" align="left">We are still putting the finishing touches on the SIP dashboard to give you a bird's eye view of your planned investments.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image width="400px" src="https://i.wlycdn.com/emails/email-assets-family-2.png"></mj-image>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+      <mj-column>
+        <mj-text font-size="20px" color="black"><strong>Revamped MF Tracker</strong></mj-text>
+        <mj-text font-size="20px" color="grey" align="left">An easier way to track all your non-Wealthy mutual fund investment in one place.</mj-text> 
+      </mj-column>
+      <mj-column>
+        <mj-image width="400px" src="https://i.wlycdn.com/emails/email-assets-family-1.png"></mj-image>
+      </mj-column>
+        </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button background-color="blue" border-radius="10px" width="600px"
+               href="#">
+    Download the App
+    </mj-button>
+        <mj-text font-size="20px" color="black" align="center">Regards,</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image padding-left="80px" align="center" width="150px" src="https://img.freepik.com/free-vector/gradient-accounting-logo-with-tagline_23-2148828803.jpg?size=626&ext=jpg&ga=GA1.1.367512263.1684396577&semt=ais"></mj-image>
+        <mj-text padding-left="80px" font-size="20px" color="black" align="center"><strong>Team Wealthy</strong></mj-text>
+      </mj-column>
+    </mj-section>
+     </mj-body>
+</mjml>
