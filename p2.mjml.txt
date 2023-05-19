@@ -1,0 +1,68 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      .ud-text div {
+      color: black !important;
+      text-decoration: underline !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+  <mj-section>
+    <mj-column>
+      <mj-image width="800px" src="https://i.wlycdn.com/Big-Picture/big-picture-banner.png"></mj-image>
+    </mj-column>
+  </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="15px" color="black"><strong>
+          Dear {{first_name|default:"Reader"}}</strong></mj-text>
+        <mj-text font-size="15px" color="grey"> Welcome to the Fifth Edition of our monthly newsletter Big Picture.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="20px" color="blue"><strong>Vodafone Idea's journey to the brink and back?</strong></mj-text>
+        <mj-image border-radius="20px" width="800px" src="https://archive.org/download/phoenix_202107/phoenix.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" color="grey" align="left">A few years ago when<mj-text>
+    <a href="mjml.io">Vodafone</a>
+</mj-text>Vodafone Idea's woes were just about exploding, you would find it hard to believe that the telecom joint venture between Vodafone and Aditya Birla Group would still be around today. There was a flurry of its subscribers making a beeline to port their mobile numbers to either<mj-text>
+    <a href="mjml.io">Bharti Airtel</a>
+</mj-text> or <mj-text>
+    <a href="mjml.io">Reliance Industry</a>
+</mj-text> arm Jio. The cash-strapped telco was almost on the brink before a lifejacket was thrown towards it by the Centre in the form of a rescue package for the entire telecom industry. This included conversion of statutory dues into equity like license fees and spectrum usage charges (including dues on annual gross revenues or AGR), and any interest on such dues.</mj-text>
+        <mj-text font-size="20px" color="grey">After Vodafone Idea (also known by its brand name Vi) took this lifeline, many of its subscribers and some investors might have hoped that it would rise like the phoenix from the cinders. But truth is stranger than fiction. Vi still remains the weakest link among the telecom players, and India's third largest telecom operator is stuck in a vicious cycle of challenges. The telco is burdened with a massive net debt of over Rs 2.2 lakh crore, with majority of these dues owed to the Centre. It is classified as debt, because a lot of it is just deferred dues.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+      <mj-group>
+  <mj-column>
+    <mj-image width="80px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579547-yumminkysocialmedia31_83086.png" />
+  </mj-column>
+  <mj-column>
+    <mj-image width="80px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />
+  </mj-column>
+      <mj-column>
+    <mj-image width="80px" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" />
+  </mj-column>
+       <mj-column>
+    <mj-image width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1024px-LinkedIn_icon_circle.svg.png" />
+      </mj-column>
+      </mj-group>
+      </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" color="black" align="left" css-class="ud-text"><strong>A Foundering Ship</strong></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" color="grey" align="left">Still, even though Kumar Mangalam Birla is back on the board of Vi, there are still worries about the firm's ability to launch 5G services. It recently converted some operational dues to telecom tower company ATC worth Rs 1,600 crore into optionally convertible debentures. These debentures can be converted into Vodafone Idea's shares.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
